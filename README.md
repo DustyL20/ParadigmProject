@@ -1,0 +1,2 @@
+# ParadigmProject
+Paradigm Interview Assessment
